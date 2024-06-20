@@ -3,14 +3,8 @@
     "Chat": {
       "name": "Chat",
       "imagePath": "preview/chat.png",
-      "description": "test description, test description, test description",
-      "itemInputs": [
-        {
-          "fieldName": "foo",
-          "type": "TEXT"
-        }
-      ]
+      "description": "test description, test description, test description"
     }
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
