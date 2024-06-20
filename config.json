@@ -1,8 +1,8 @@
 {
   "customComponentItems": {
-    "Count": {
-      "name": "Count",
-      "imagePath": "preview/count.jpeg",
+    "Chat": {
+      "name": "Chat",
+      "imagePath": "preview/chat.png",
       "description": "test description, test description, test description",
       "itemInputs": [
         {

@@ -1,3 +1,3 @@
-import { Count } from './Count';
+import { Chat } from './Chat';
 
-export default { Count };
+export default { Chat };
